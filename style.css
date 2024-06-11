@@ -1,0 +1,15 @@
+.w3-lobster {
+    font-family: "Lobster", Sans-serif;
+  }
+      </style>  
+      <style>
+          body, html {height: 100%;}
+          body, h1, h2, h3, h4,h5, h6 {font-family: "Pacifico", cursive}
+          .menu{display: none;}
+          .bgimg{
+              background-repeat: no-repeat;
+              background-size: cover;
+              background-image: url(https://img.freepik.com/free-vector/hand-drawn-coffee-shop-pattern-background_23-2150849907.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1716854400&semt=ais_user);
+              min-height: 90%;
+          }
+      </style> 
